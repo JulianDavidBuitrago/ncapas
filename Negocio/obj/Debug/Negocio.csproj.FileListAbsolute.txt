@@ -1,0 +1,25 @@
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Negocio\bin\Debug\Negocio.dll
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Negocio\bin\Debug\Negocio.pdb
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Negocio\bin\Debug\Datos.dll
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Negocio\bin\Debug\Entidad.dll
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Negocio\bin\Debug\EntityFramework.dll
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Negocio\bin\Debug\Datos.pdb
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Negocio\bin\Debug\Entidad.pdb
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Negocio\bin\Debug\EntityFramework.xml
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Negocio\obj\Debug\Negocio.dll
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Negocio\obj\Debug\Negocio.pdb
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Negocio\bin\Debug\Negocio.dll
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Negocio\bin\Debug\Negocio.pdb
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Negocio\bin\Debug\Datos.dll
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Negocio\bin\Debug\Entidad.dll
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Negocio\bin\Debug\Datos.pdb
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Negocio\bin\Debug\Datos.dll.config
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Negocio\bin\Debug\Entidad.pdb
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Negocio\obj\Debug\Negocio.dll
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Negocio\obj\Debug\Negocio.pdb

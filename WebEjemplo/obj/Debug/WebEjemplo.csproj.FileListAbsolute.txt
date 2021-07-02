@@ -1,0 +1,35 @@
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\WebEjemplo\bin\WebEjemplo.dll.config
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\WebEjemplo\bin\WebEjemplo.dll
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\WebEjemplo\bin\WebEjemplo.pdb
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\WebEjemplo\bin\Entidad.dll
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\WebEjemplo\bin\EntityFramework.dll
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\WebEjemplo\bin\EntityFramework.SqlServer.dll
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\WebEjemplo\bin\Negocio.dll
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\WebEjemplo\bin\Datos.dll
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\WebEjemplo\bin\Entidad.pdb
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\WebEjemplo\bin\Negocio.pdb
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\WebEjemplo\bin\EntityFramework.xml
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\WebEjemplo\bin\EntityFramework.SqlServer.xml
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\WebEjemplo\bin\Datos.pdb
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\WebEjemplo\obj\Debug\WebEjemplo.csprojResolveAssemblyReference.cache
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\WebEjemplo\obj\Debug\WebEjemplo.dll
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\WebEjemplo\obj\Debug\WebEjemplo.pdb
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\WebEjemplo\bin\WebEjemplo.dll.config
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\WebEjemplo\bin\WebEjemplo.dll
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\WebEjemplo\bin\WebEjemplo.pdb
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\WebEjemplo\bin\Entidad.dll
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\WebEjemplo\bin\EntityFramework.dll
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\WebEjemplo\bin\EntityFramework.SqlServer.dll
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\WebEjemplo\bin\Negocio.dll
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\WebEjemplo\bin\Datos.dll
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\WebEjemplo\bin\Entidad.pdb
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\WebEjemplo\bin\Negocio.pdb
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\WebEjemplo\bin\EntityFramework.xml
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\WebEjemplo\bin\EntityFramework.SqlServer.xml
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\WebEjemplo\bin\Datos.pdb
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\WebEjemplo\bin\Datos.dll.config
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\WebEjemplo\obj\Debug\WebEjemplo.csprojAssemblyReference.cache
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\WebEjemplo\obj\Debug\WebEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\WebEjemplo\obj\Debug\WebEjemplo.csproj.CopyComplete
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\WebEjemplo\obj\Debug\WebEjemplo.dll
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\WebEjemplo\obj\Debug\WebEjemplo.pdb

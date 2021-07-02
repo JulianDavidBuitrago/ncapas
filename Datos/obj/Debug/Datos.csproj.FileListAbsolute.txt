@@ -1,0 +1,26 @@
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Datos\bin\Debug\Datos.dll.config
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Datos\bin\Debug\Datos.dll
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Datos\bin\Debug\Datos.pdb
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Datos\bin\Debug\Entidad.dll
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Datos\bin\Debug\EntityFramework.dll
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Datos\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Datos\bin\Debug\Entidad.pdb
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Datos\bin\Debug\EntityFramework.xml
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Datos\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Datos\obj\Debug\Datos.dll
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Datos\obj\Debug\Datos.pdb
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Datos\bin\Debug\Datos.dll.config
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Datos\bin\Debug\Datos.dll
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Datos\bin\Debug\Datos.pdb
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Datos\bin\Debug\Entidad.dll
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Datos\bin\Debug\EntityFramework.dll
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Datos\bin\Debug\Entidad.pdb
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Datos\bin\Debug\EntityFramework.xml
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Datos\obj\Debug\Datos.dll
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Datos\obj\Debug\Datos.pdb

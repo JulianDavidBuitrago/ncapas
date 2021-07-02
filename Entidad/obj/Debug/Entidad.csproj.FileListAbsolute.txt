@@ -1,0 +1,10 @@
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Entidad\bin\Debug\Entidad.dll
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Entidad\bin\Debug\Entidad.pdb
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Entidad\obj\Debug\Entidad.dll
+c:\users\services\documents\visual studio 2013\Projects\EntityFrameworkCapas\Entidad\obj\Debug\Entidad.pdb
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Entidad\bin\Debug\Entidad.dll
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Entidad\bin\Debug\Entidad.pdb
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Entidad\obj\Debug\Entidad.dll
+C:\Users\jdbor\Documents\UNIVERSIDAD\7\EntityFrameworkCapas\Entidad\obj\Debug\Entidad.pdb
